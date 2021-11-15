@@ -20,7 +20,7 @@ function App() {
 			{/* <Conditions /> */}
 			{/* <Loops /> */}
 			{/* <ErrorHandling /> */}
-			<Functions />
+			{/* <Functions /> */}
 		</>
 	);
 }
