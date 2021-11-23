@@ -7,6 +7,10 @@ import Conditions from "./Conditions";
 import Loops from "./Loops";
 import ErrorHandling from "./ErrorHandling";
 import Functions from "./Functions";
+import Classes from "./Classes";
+import FormsC from "./FormsC";
+import FormsF from "./FormsF";
+import Fetch from "./Fetch";
 
 function App() {
 
@@ -21,6 +25,10 @@ function App() {
 			{/* <Loops /> */}
 			{/* <ErrorHandling /> */}
 			{/* <Functions /> */}
+			{/* <Classes /> */}
+			{/* <FormsC /> */}
+			{/* <FormsF /> */}
+			<Fetch />
 		</>
 	);
 }
